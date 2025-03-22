@@ -1,34 +1,79 @@
-# Netflix-Movies-TV-Shows
+# 🎬 Netflix Movies & TV Shows Analysis  
 
-📌 Netflix Movies & TV Shows Analysis
-🚀 Data Analysis using Python (Pandas & NumPy)
 
-📖 About the Project
-This project analyzes the Netflix Movies & TV Shows dataset using Python. The dataset contains information about movies and TV shows available on Netflix, including details like release year, genre, duration, and ratings.
 
-📂 Dataset Information
-Source: Netflix Movies & TV Shows dataset
-Columns:
-show_id → Unique ID for each show
-type → Movie or TV Show
-title → Name of the show
-director → Director of the show
-cast → List of actors
-country → Country of production
-release_year → Year of release
-rating → Content rating (e.g., PG, R, TV-MA)
-duration → Length of the movie or show
-listed_in → Genre
-🛠 Technologies Used
-✅ Python
-✅ Pandas
-✅ NumPy
-✅ Matplotlib
-✅ Seaborn
+## 📌 Overview  
+Netflix is the world’s largest streaming platform, offering thousands of **movies and TV shows** across various genres.  
+This project aims to analyze the **Netflix Movies & TV Shows dataset** and extract meaningful insights, such as:  
 
-📊 Key Analysis Performed
-🔹 Data Cleaning: Handled missing values and formatted data properly.
-🔹 Genre Analysis: Found the most popular genres on Netflix.
-🔹 Movies vs TV Shows: Compared the number of Movies vs. TV Shows.
-🔹 Top Countries: Analyzed which countries produce the most Netflix content.
-🔹 Trend Analysis: Found trends of movie releases over the years.
+✅ **Movies vs. TV Shows count**  
+✅ **Most popular genres**  
+✅ **Yearly content production trends**  
+✅ **Top content-producing countries**  
+✅ **Movie duration vs. TV show seasons**  
+
+**Libraries Used:** `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`  
+
+---
+
+## 📂 Dataset Information  
+- **Source:** [Netflix Movies & TV Shows Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)  
+- **Size:** 8,800+ entries  
+- **Key Columns:**  
+  - `type` → Movie or TV Show  
+  - `title` → Name of the content  
+  - `country` → Country of production  
+  - `release_year` → Year of release  
+  - `duration` → Movie duration / TV show seasons  
+  - `listed_in` → Genre(s)  
+
+---
+
+## 📊 Tasks & Visualizations  
+
+### **1️⃣ Movies vs. TV Shows Count**  
+**Goal:** Find how many Movies vs. TV Shows exist on Netflix.  
+📊 **Visualization:** Bar chart comparing Movies & TV Shows.  
+
+![Movies vs TV Shows](YOUR_IMAGE_LINK_HERE)  
+
+---
+
+### **2️⃣ Most Popular Genres**  
+**Goal:** Identify the top 10 most common genres on Netflix.  
+📊 **Visualization:** Bar chart of the most frequent genres.  
+
+![Top Genres](YOUR_IMAGE_LINK_HERE)  
+
+---
+
+### **3️⃣ Number of Releases Per Year**  
+**Goal:** Track content production trends over the years.  
+📊 **Visualization:** Line plot showing releases per year.  
+
+![Releases Per Year](relese_year.png)  
+
+---
+
+### **4️⃣ Top 10 Countries Producing Netflix Content**  
+**Goal:** Identify which countries produce the most Netflix content.  
+📊 **Visualization:** Bar chart of the top content-producing countries.  
+
+![Top Countries](YOUR_IMAGE_LINK_HERE)  
+
+---
+
+### **5️⃣ Relationship Between Duration & Type (Movies vs. TV Shows)**  
+**Goal:** Compare the duration of movies vs. TV show seasons.  
+📊 **Visualization:** Box plot showing duration trends.  
+
+![Duration vs Type](YOUR_IMAGE_LINK_HERE)  
+
+---
+
+## ⚙ How to Run the Project  
+
+### **🔹 Clone the Repository**  
+```bash
+git clone https://github.com/mehtaricha-23/Netflix-Movies-TV-Shows.git
+cd Netflix-Movies-TV-Shows
