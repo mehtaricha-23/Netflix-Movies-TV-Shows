@@ -51,7 +51,7 @@ This project aims to analyze the **Netflix Movies & TV Shows dataset** and extra
 **Goal:** Track content production trends over the years.  
 📊 **Visualization:** Line plot showing releases per year.  
 
-![Releases Per Year](relese_year.png)  
+![Releases Per Year](/image/relese_year.png)  
 
 ---
 
