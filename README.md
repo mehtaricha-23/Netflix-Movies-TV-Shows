@@ -35,7 +35,7 @@ This project aims to analyze the **Netflix Movies & TV Shows dataset** and extra
 **Goal:** Find how many Movies vs. TV Shows exist on Netflix.  
 📊 **Visualization:** Bar chart comparing Movies & TV Shows.  
 
-![Movies vs TV Shows](YOUR_IMAGE_LINK_HERE)  
+![Movies vs TV Shows](/image/count_movies_tv.png)  
 
 ---
 
@@ -43,7 +43,7 @@ This project aims to analyze the **Netflix Movies & TV Shows dataset** and extra
 **Goal:** Identify the top 10 most common genres on Netflix.  
 📊 **Visualization:** Bar chart of the most frequent genres.  
 
-![Top Genres](YOUR_IMAGE_LINK_HERE)  
+![Top Genres](/image/common_genres.png)  
 
 ---
 
@@ -59,7 +59,7 @@ This project aims to analyze the **Netflix Movies & TV Shows dataset** and extra
 **Goal:** Identify which countries produce the most Netflix content.  
 📊 **Visualization:** Bar chart of the top content-producing countries.  
 
-![Top Countries](YOUR_IMAGE_LINK_HERE)  
+![Top Countries](/image/country_produce.png)  
 
 ---
 
@@ -67,7 +67,7 @@ This project aims to analyze the **Netflix Movies & TV Shows dataset** and extra
 **Goal:** Compare the duration of movies vs. TV show seasons.  
 📊 **Visualization:** Box plot showing duration trends.  
 
-![Duration vs Type](YOUR_IMAGE_LINK_HERE)  
+![Duration vs Type](/image/content_type.png)  
 
 ---
 
