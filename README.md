@@ -35,8 +35,8 @@ This project aims to analyze the **Netflix Movies & TV Shows dataset** and extra
 **Goal:** Find how many Movies vs. TV Shows exist on Netflix.  
 📊 **Visualization:** Bar chart comparing Movies & TV Shows.  
 
-![Movies vs TV Shows](/image/count_movies_tv.png)  
-
+![Movies vs TV Shows](image/5%20Best-Selling%20Products.png)  
+https://github.com/mehtaricha-23/Sales-Data-Analysis/blob/main/image/5%20Best-Selling%20Products.png
 ---
 
 ### **2️⃣ Most Popular Genres**  
